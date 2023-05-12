@@ -12,7 +12,7 @@ window.open("mostrarDatos.html")
 
 }
 
-function Mostrardatos(){
+function MostrarDatos(){
 
 document.write("Nombre: "+localStorage.getItem("nombre"))
 document.write("<br>Apellidos: "+localStorage.getItem("apellidos"))
