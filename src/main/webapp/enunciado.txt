@@ -1,0 +1,6 @@
+
+pedir datos y mostrar en otra ventana al enviar el formulario
+
+
+
+
